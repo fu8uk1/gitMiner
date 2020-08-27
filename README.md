@@ -4,9 +4,6 @@
 
 ```
  + Autor: UnK
- + Blog: https://unkl4b.github.io
- + Github: https://github.com/danilovazb
- + Twitter: https://twitter.com/danilo_vaz_
 ```
 ## WARNING
 ```
@@ -37,7 +34,7 @@ re
 
 ### INSTALL
 ```
-$ git clone http://github.com/UnkL4b/GitMiner
+$ git clone http://github.com/fu8uk1/GitMiner
 
 $ cd GitMiner
 
@@ -45,7 +42,7 @@ $ cd GitMiner
 ```
 ### Docker
 ```
-$ git clone http://github.com/UnkL4b/GitMiner
+$ git clone http://github.com/fu8uk1/GitMiner
 $ cd GitMiner
 $ docker build -t gitminer .
 $ docker run -it gitminer -h

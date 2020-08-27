@@ -64,8 +64,6 @@ $ docker run -it gitminer -h
        ░ ░   ░  ▒ ░  ░      ░      ░    ▒ ░   ░   ░ ░    ░     ░░   ░ 
              ░  ░                  ░    ░           ░    ░  ░   ░     
 
-  -> github.com/UnkL4b
-  -> unkl4b.github.io
 
   +---------------------[WARNING]---------------------+
   | DEVELOPERS ASSUME NO LIABILITY AND ARE NOT        |
